@@ -1,3 +1,4 @@
 # git-exercise
+hello read e file
+Elif Su added  
 
-This is my hello text for you. 
