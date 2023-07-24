@@ -7,8 +7,4 @@ kemal
 xxxxxxxxxxxxx
 xxxxxxxxxxxxx
 xxxxxxxxxxxxx
-----------------------------
-About Us
-Product 
-Contact us
-----------------------------
+small change :)
